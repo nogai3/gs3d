@@ -1,0 +1,42 @@
+[
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\gcc.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -o CMakeFiles\\EOD.dir\\libs\\glad\\src\\glad.c.obj -c E:\\cpp_stuff\\some_program_in_cpp\\libs\\glad\\src\\glad.c",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\libs\\glad\\src\\glad.c"
+},
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -std=gnu++17 -o CMakeFiles\\EOD.dir\\src\\EOD.cpp.obj -c E:\\cpp_stuff\\some_program_in_cpp\\src\\EOD.cpp",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\src\\EOD.cpp"
+},
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -std=gnu++17 -o CMakeFiles\\EOD.dir\\src\\Timer.cpp.obj -c E:\\cpp_stuff\\some_program_in_cpp\\src\\Timer.cpp",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\src\\Timer.cpp"
+},
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -std=gnu++17 -o CMakeFiles\\EOD.dir\\src\\main.cpp.obj -c E:\\cpp_stuff\\some_program_in_cpp\\src\\main.cpp",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\src\\main.cpp"
+},
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -std=gnu++17 -o CMakeFiles\\EOD.dir\\src\\phys\\AABB.cpp.obj -c E:\\cpp_stuff\\some_program_in_cpp\\src\\phys\\AABB.cpp",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\src\\phys\\AABB.cpp"
+},
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -std=gnu++17 -o CMakeFiles\\EOD.dir\\src\\phys\\Vec3.cpp.obj -c E:\\cpp_stuff\\some_program_in_cpp\\src\\phys\\Vec3.cpp",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\src\\phys\\Vec3.cpp"
+},
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -std=gnu++17 -o CMakeFiles\\EOD.dir\\src\\platform\\ShaderProgram.cpp.obj -c E:\\cpp_stuff\\some_program_in_cpp\\src\\platform\\ShaderProgram.cpp",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\src\\platform\\ShaderProgram.cpp"
+},
+{
+  "directory": "E:/cpp_stuff/some_program_in_cpp/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe -IE:/cpp_stuff/some_program_in_cpp/src -IE:/cpp_stuff/some_program_in_cpp/src/phys -IE:/cpp_stuff/some_program_in_cpp/src/platform -IE:/cpp_stuff/some_program_in_cpp/libs/glfw/include -IE:/cpp_stuff/some_program_in_cpp/libs/glad/include -g -std=gnu++17 -o CMakeFiles\\EOD.dir\\src\\platform\\Window.cpp.obj -c E:\\cpp_stuff\\some_program_in_cpp\\src\\platform\\Window.cpp",
+  "file": "E:\\cpp_stuff\\some_program_in_cpp\\src\\platform\\Window.cpp"
+}
+]

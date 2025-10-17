@@ -1,0 +1,10 @@
+# ninja log v7
+66	1597	7824265037942792	CMakeFiles/EOD.dir/src/main.cpp.obj	d25b63ebf2846557
+52	2204	7824265037807394	CMakeFiles/EOD.dir/src/EOD.cpp.obj	761f521fec93354f
+85	2060	7824235759606142	CMakeFiles/EOD.dir/src/phys/AABB.cpp.obj	57f60ebf71780aaf
+105	2280	7824235759804387	CMakeFiles/EOD.dir/src/phys/Vec3.cpp.obj	cc88687888cfbfe2
+55	2042	7824245380969563	CMakeFiles/EOD.dir/src/platform/Window.cpp.obj	625c3a66d77b2833
+2000	2942	7824266252949161	E:/cpp_stuff/some_program_in_cpp/output/EOD.exe	fd8ac41c40401c96
+36	9030	7824235759126542	CMakeFiles/EOD.dir/libs/glad/src/glad.c.obj	9b4efa0a1e874ad
+61	2036	7824265785736628	CMakeFiles/EOD.dir/src/platform/ShaderProgram.cpp.obj	fa21bae8ef406a4a
+54	1997	7824266233508699	CMakeFiles/EOD.dir/src/Timer.cpp.obj	982089fcf7bfacd8
